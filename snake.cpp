@@ -8,10 +8,12 @@ using namespace std;
 const int WIDTH = 45;
 const int HEIGHT = 15; 
 
-class Snake {
+class Snake
+{
     vector<pair<int, int>> body;
     pair<int, int> direction;
     int score;
+
 public:
     Snake() : direction({0, 1}), score(0)
      { body.push_back({HEIGHT / 2, WIDTH / 2}); }
@@ -43,7 +45,8 @@ public:
     pair<int, int> getHeadPosition() { return body[0]; }
 };
 
-class Food {
+class Food
+{
     pair<int, int> position;
 public:
     Food() { spawn(); }
@@ -116,7 +119,8 @@ void drawGame(Snake &snake, Food &food)
     cout << "\nScore: " << snake.getScore() << "\n";
 }
 
-int main() {
+int main() 
+{
     while (true) {
         startScreen();
         Snake snake;
