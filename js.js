@@ -25,14 +25,15 @@ const games = {
     'number_guessing': 'number_guessing.exe',
     'snake': 'snake.exe',
     'sudoku': 'sudoku.exe',
-    'word_scramble': 'word_scramble.exe',
-    'word_maze': 'word_maze.exe',
-    'pikachu': 'pikachu.exe'
+    'word_scramble': 'xo.exe',
+    'word_maze': 'tictactoe.exe',
+    'typingspeed' : 'typing_speed.exe',
 };
 
 document.querySelectorAll('.game-box').forEach(box => {
     box.addEventListener('click', function() {
         let game = this.getAttribute('data-game');
+        console.log(game);  
         if (game in games) {
             window.location.href = games[game];
         } else {

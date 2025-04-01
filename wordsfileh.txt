@@ -1,0 +1,54 @@
+apple,Fruit,A red or green fruit, keeps the doctor away!
+banana,Fruit,A yellow fruit that monkeys love!
+cherry,Fruit,A small red fruit often on top of cakes!
+orange,Fruit,A citrus fruit with vitamin C!
+grape,Fruit,Small, round, and used to make wine!
+mango,Fruit,The king of fruits in summer!
+strawberry,Fruit,A red fruit with tiny seeds on the outside!
+pineapple,Fruit,A tropical fruit with a spiky top!
+blueberry,Fruit,A small blue fruit used in muffins!
+raspberry,Fruit,A red berry with a tangy taste!
+
+laptop,Shopping Item,A portable computer!
+headphones,Shopping Item,You wear them to listen to music!
+backpack,Shopping Item,Used to carry books and supplies!
+sunglasses,Shopping Item,Protects your eyes from the sun!
+shampoo,Shopping Item,Used to wash your hair!
+perfume,Shopping Item,Makes you smell good!
+wallet,Shopping Item,Holds money and cards!
+watch,Shopping Item,Worn on the wrist to tell time!
+umbrella,Shopping Item,Used when it rains!
+notebook,Shopping Item,Used to write down notes!
+
+carrot,Vegetable,A crunchy orange vegetable!
+broccoli,Vegetable,A green vegetable that looks like a tree!
+spinach,Vegetable,A leafy green full of iron!
+potato,Vegetable,Can be fried into chips!
+tomato,Vegetable,Red and often mistaken for a vegetable!
+onion,Vegetable,Makes you cry when you cut it!
+cabbage,Vegetable,Used in coleslaw and salads!
+cucumber,Vegetable,Long and green, great in salads!
+cauliflower,Vegetable,Looks like broccoli but is white!
+pumpkin,Vegetable,Used to make Halloween lanterns!
+
+taj mahal,Indian Monument,A symbol of love in Agra!
+gateway of india,Indian Monument,A famous landmark in Mumbai!
+red fort,Indian Monument,A historic fort in Delhi!
+qutub minar,Indian Monument,Tallest brick minaret in the world!
+india gate,Indian Monument,A war memorial in Delhi!
+charminar,Indian Monument,A monument in Hyderabad with four towers!
+hawa mahal,Indian Monument,The palace of winds in Jaipur!
+mysore palace,Indian Monument,A royal palace in Karnataka!
+konark temple,Indian Monument,A temple shaped like a chariot!
+golden temple,Indian Monument,A Sikh religious place in Amritsar!
+
+delhi,City,Capital of India!
+mumbai,City,The city of dreams!
+kolkata,City,Known for Howrah Bridge and sweets!
+chennai,City,A coastal city famous for Marina Beach!
+bangalore,City,The IT hub of India!
+hyderabad,City,Famous for biryani and pearls!
+pune,City,An educational hub of India!
+jaipur,City,The pink city of India!
+ahmedabad,City,Famous for Sabarmati Ashram!
+lucknow,City,The city of Nawabs!
