@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    background: url('images/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #00ffff;
+    overflow: hidden;
+}
+
+#welcome-screen, #username-input-screen, #game-selection-screen {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.6);
+    border: 2px solid #00ffff;
+}
+
+button {
+    padding: 12px 24px;
+    border: none;
+    background: linear-gradient(90deg, #00ffff, #0066ff);
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: all 0.3s;
+    box-shadow: 0px 0px 10px #00ffff;
+    text-transform: uppercase;
+}
+
+button:hover {
+    background: linear-gradient(90deg, #0066ff, #00ffff);
+    box-shadow: 0px 0px 15px #00ffff;
+    transform: scale(1.1);
+}
+
+#username {
+    padding: 15px;
+    font-size: 20px;
+    width: 85%;
+    margin: 15px 0;
+    border-radius: 8px;
+    border: 2px solid #00ffff;
+    background: black;
+    color: #00ffff;
+    text-align: center;
+    box-shadow: 0px 0px 10px #00ffff;
+}
+
+.game-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    max-width: 700px;
+    margin: auto;
+}
+
+.game-box {
+    width: 190px;
+    height: 190px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    color: #082b2b;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 0px 0px 25px white;
+    padding-bottom: 15px;
+    border: 2px solid #00ffff;
+    box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.7);
+}
+
+.game-box:hover {
+    transform: scale(1.15);
+    box-shadow: 0px 0px 25px #00ffff;
+}
+
