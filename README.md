@@ -4,8 +4,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-Welcome to the **Playscape-PBL2** repository! This project combines the power of **C++**, **HTML**, and **CSS** to deliver an interactive and visually appealing experience. 
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -31,17 +29,7 @@ Playscape is a collection of simple C++ games, available as executable files. Th
 - **Free to Download:** All games are available for free.
 
 
----
 
-## 🕹️ Game Collection
-
-| Game     | Category       | Description                          |
-|--------------------|---------------|--------------------------------------|
-| Sudoku     | Puzzle        | Classic 9x9 number logic game        |
-| Number guessing Game | Math          | Collection of numerical challenges   |
-| Speed Typing     | Arcade        | Speed typing trainer with leaderboard|
-| `words.exe`        | Word          | Vocabulary building game             |
-| `snake.exe`        | Arcade        | Classic Snake game with score system |
 
 
 
