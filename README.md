@@ -9,9 +9,7 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -28,8 +26,48 @@ Playscape is a collection of simple C++ games, available as executable files. Th
 - **System-Specific:** Currently works only on the system it's developed on (Windows).
 - **Free to Download:** All games are available for free.
 
+---
+## Games Included
 
+- **NumMyst**
+- **Slithr**
+- **Sudoku**
+- **Jumbiffy**
+- **Tic Tac Toe**
+- **KeyRush**
 
+---
 
+## Technologies Used
+
+- **C++ 17** – Core game logic and implementation.
+- **HTML/CSS/JavaScript** – For the website interface to host the `.exe` files.
+- **Windows OS** – Target platform for the executable files.
+
+---
+### To Play the Games:
+1. Choose the game you want to play.
+2. Click to download the `.exe` file.
+3. Double-click the downloaded file to launch the game.
+
+> ⚠ Note: Make sure your system allows running executables from unknown sources.
+
+---
+## Contributing
+
+Contributions are welcome! Here’s how you can help:
+
+- Add new games written in C++
+- Enhance the website UI
+- Optimize performance or fix bugs
+
+### To contribute:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request with a clear description of what you’ve added or fixed.
+
+---
 
 
